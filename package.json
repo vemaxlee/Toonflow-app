@@ -32,7 +32,8 @@
     "dist:linux": "yarn build && electron-builder --linux",
     "debug:ai": "npx @ai-sdk/devtools",
     "license": "node scripts/license.ts",
-    "vendor2json": "node scripts/vendor2json.ts"
+    "vendor2json": "node scripts/vendor2json.ts",
+    "electron:rebuild": "electron-rebuild"
   },
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.35",
@@ -47,7 +48,7 @@
     "ai": "^6.0.67",
     "axios": "^1.13.2",
     "axios-retry": "^4.5.0",
-    "better-sqlite3": "^12.9.0",
+    "better-sqlite3": "^12.10.0",
     "compressing": "^2.1.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
