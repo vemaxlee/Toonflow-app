@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Toonflow&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Toonflow&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <p>
   <a href="https://github.com/HBAI-Ltd/Toonflow-app">
@@ -80,7 +80,9 @@
 </div>
 
 <div align="center">
-  <img src="./docs/g-star.png" alt="AtomGit G-Star 认证证书" height="300"/>
+  <a href="./docs/g-star.png" target="_blank">
+    <img src="./docs/g-star.png" alt="AtomGit G-Star 认证证书" width="100%"/>
+  </a>
 </div>
 
 ---
@@ -164,24 +166,24 @@ https://www.bilibili.com/video/BV1oXD7BqEqJ
 <div align="center">
 <table>
   <tr>
-    <td width="50%"><a href="./docs/screenshot/1.png"><img src="./docs/screenshot/1.png" width="100%"/></a></td>
-    <td width="50%"><a href="./docs/screenshot/2.png"><img src="./docs/screenshot/2.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/1.png" target="_blank"><img src="./docs/screenshot/1.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/2.png" target="_blank"><img src="./docs/screenshot/2.png" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="./docs/screenshot/3.png"><img src="./docs/screenshot/3.png" width="100%"/></a></td>
-    <td width="50%"><a href="./docs/screenshot/4.png"><img src="./docs/screenshot/4.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/3.png" target="_blank"><img src="./docs/screenshot/3.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/4.png" target="_blank"><img src="./docs/screenshot/4.png" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="./docs/screenshot/5.png"><img src="./docs/screenshot/5.png" width="100%"/></a></td>
-    <td width="50%"><a href="./docs/screenshot/6.png"><img src="./docs/screenshot/6.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/5.png" target="_blank"><img src="./docs/screenshot/5.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/6.png" target="_blank"><img src="./docs/screenshot/6.png" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="./docs/screenshot/7.png"><img src="./docs/screenshot/7.png" width="100%"/></a></td>
-    <td width="50%"><a href="./docs/screenshot/8.png"><img src="./docs/screenshot/8.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/7.png" target="_blank"><img src="./docs/screenshot/7.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/8.png" target="_blank"><img src="./docs/screenshot/8.png" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="./docs/screenshot/9.png"><img src="./docs/screenshot/9.png" width="100%"/></a></td>
-    <td width="50%"><a href="./docs/screenshot/10.png"><img src="./docs/screenshot/10.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/9.png" target="_blank"><img src="./docs/screenshot/9.png" width="100%"/></a></td>
+    <td width="50%"><a href="./docs/screenshot/10.png" target="_blank"><img src="./docs/screenshot/10.png" width="100%"/></a></td>
   </tr>
 </table>
 </div>
@@ -215,7 +217,7 @@ https://github.com/user-attachments/assets/2d9fddac-dfdf-4640-b030-b09d7f7287e9
 | 图片模型 | 不足 ¥1 |
 | **合计** | **约 ¥130** |
 
-> **声明**：Demo 原始分辨率为 1080×1882，发布版本已压缩至 480p。如涉及版权问题，请通过 [ltlctools@outlook.com](mailto:ltlctools@outlook.com) 联系我们处理。
+> **声明**：Demo 原始分辨率为 1080×1882，发布版本已压缩至 480p。如涉及版权问题，请联系我们删除处理。
 
 ---
 
@@ -233,11 +235,11 @@ https://github.com/user-attachments/assets/2d9fddac-dfdf-4640-b030-b09d7f7287e9
 
 ### 1. 下载与安装
 
-| 操作系统 | GitHub                                                       | Atomgit                                                       | 夸克网盘下载                                    | 说明           |
-| :------: | :----------------------------------------------------------- | :------------------------------------------------------------ | :---------------------------------------------- | :------------- |
-| Windows  | [Release](https://github.com/HBAI-Ltd/Toonflow-app/releases) | [Release](https://gitcode.com/HBAI-Ltd/Toonflow-app/releases) | [夸克网盘](https://pan.quark.cn/s/94ef07509df0) | 官方发布安装包 |
-|  Linux   | [Release](https://github.com/HBAI-Ltd/Toonflow-app/releases) | [Release](https://gitcode.com/HBAI-Ltd/Toonflow-app/releases) | [夸克网盘](https://pan.quark.cn/s/94ef07509df0) | 官方发布安装包 |
-|  macOS   | [Release](https://github.com/HBAI-Ltd/Toonflow-app/releases) | [Release](https://gitcode.com/HBAI-Ltd/Toonflow-app/releases) | [夸克网盘](https://pan.quark.cn/s/94ef07509df0) | 官方发布安装包 |
+| 操作系统 | GitHub                                                       | 说明           |
+| :------: | :----------------------------------------------------------- | :------------- |
+| Windows  | [Release](https://github.com/HBAI-Ltd/Toonflow-app/releases) | 官方发布安装包 |
+|  Linux   | [Release](https://github.com/HBAI-Ltd/Toonflow-app/releases) | 官方发布安装包 |
+|  macOS   | [Release](https://github.com/HBAI-Ltd/Toonflow-app/releases) | 官方发布安装包 |
 
 > [!CAUTION]
 > MacOS 系统请到 设置-隐私与安全性 配置安全性否则可能因证书问题无法正常打开
